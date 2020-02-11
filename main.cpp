@@ -1,6 +1,3 @@
-//
-//  main.cpp
-//  project 1
 
 #include<iostream>
 #include<string>
